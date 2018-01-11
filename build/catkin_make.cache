@@ -1,0 +1,2 @@
+youbot/brics_actuator:youbot/youbot_description-kinetic-devel:youbot/youbot_driver-hydro-devel:youbot/youbot_driver_ros_interface-hydro-devel:youbot/youbot_gui
+-DCATKIN_DEVEL_PREFIX=/home/arek/youbot/devel -DCMAKE_INSTALL_PREFIX=/home/arek/youbot/install -G Unix Makefiles
